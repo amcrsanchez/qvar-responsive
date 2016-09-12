@@ -77,7 +77,12 @@
         </p>
     </div>
     <br>
-
+   <div class="col-lg-12">
+    <hr class="featurette-divider">
+    <h1 class="font-OSCB color-red no-padding">NUESTRA<span class="font-OSCI  color-black">PLANTA</span></h1>
+      <img data-toggle="modal" data-target="#our-plant-pic" class="img-responsive" src="images/planta_qvar.jpg" alt="Qvar - Planta" />
+      <hr class="featurette-divider">
+    </div>
 
     <div class="col-lg-4">
       <div class="text-center  service-box">
