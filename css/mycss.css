@@ -302,6 +302,11 @@ font-style: italic;
 
 }
 
+.img-automotriz{
+	max-width: 150px;
+	
+}
+
 .img-automotriz:hover{
 	cursor: zoom-in;
 }

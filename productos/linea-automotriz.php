@@ -26,7 +26,7 @@ $producto->autoClasses();
                     <h1 class="font-OSCB color-red text-center"><?php echo explode(" ",$item['nombre'])[0]; ?><span class="font-OSCI  color-black"><?php echo explode(" ",$item['nombre'])[1]; ?></span>
                     </h1>
                     <center>
-                        <img data-toggle="modal" data-target="#myModalImg" class="img-responsive img-automotriz"  onclick="zoomImage(this);" width="150" src="<?php echo $item['imagen']; ?>" alt="<?php echo $item['imagen']; ?>">
+                        <img data-toggle="modal" data-target="#myModalImg" class="img-automotriz"  onclick="zoomImage(this);" width="" src="<?php echo $item['imagen']; ?>" alt="<?php echo $item['imagen']; ?>">
                         <p class="">
                           <?php echo utf8_encode($item['descripcion_corta']); ?>
                         </p>
