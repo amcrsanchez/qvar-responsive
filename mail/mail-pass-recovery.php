@@ -23,6 +23,13 @@ $html = "
 
 include 'phpmailer/class.phpmailer.php';
 $mail = new PHPMailer();
+
+$mail->IsSMTP();
+$mail->Host = "host.caracashosting55.com";
+$mail->SMTPAuth = true;
+$mail->Username = 'contacto@qvarvenezuela.com';
+$mail->Password = 'abc123-*/';
+
 $mail->CharSet = 'UTF-8';
 $mail->SetFrom("contacto@qvarvenezuela.com","Mensaje de www.qvarvenezuela.com");
 $mail->AddReplyTo("no-responder@qvarvenezuela.com","No Responder a este correo");

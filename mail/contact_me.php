@@ -49,13 +49,26 @@ $htmlUsuario =  "
                   <br>
                   <p><i>con QVAR, tu pones la confianza, nostros la calidad</i></p>
                   <p>www.qvarvenezuela.com</p>
-                  <img src='http://www.qvarvenezuela.com/imagenes/logo.png'>
+                  <img src='http://www.qvarvenezuela.com/imags/logo.png'>
                 </div>
                 ";
 
 
 $mailQvar = new PHPMailer();
 $mailResponse = new PHPMailer();
+
+$mailQvar->IsSMTP();
+$mailQvar->Host = "host.caracashosting55.com";
+$mailQvar->SMTPAuth = true;
+$mailQvar->Username = 'contacto@qvarvenezuela.com';
+$mailQvar->Password = 'abc123-*/';
+
+
+$mailResponse->IsSMTP();
+$mailResponse->Host = "host.caracashosting55.com";
+$mailResponse->SMTPAuth = true;
+$mailResponse->Username = 'contacto@qvarvenezuela.com';
+$mailResponse->Password = 'abc123-*/';
 
 $mailQvar->SetFrom("contacto@qvarvenezuela.com","Mensaje de www.qvarvenezuela.com");
 $mailResponse->SetFrom("contacto@qvarvenezuela.com","Mensaje de www.qvarvenezuela.com");

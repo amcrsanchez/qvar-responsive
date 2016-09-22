@@ -110,6 +110,19 @@ include 'phpmailer/class.phpmailer.php';
 $mailQvar = new PHPMailer();
 $mailResponse = new PHPMailer();
 
+$mailQvar->IsSMTP();
+$mailQvar->Host = "host.caracashosting55.com";
+$mailQvar->SMTPAuth = true;
+$mailQvar->Username = 'contacto@qvarvenezuela.com';
+$mailQvar->Password = 'abc123-*/';
+
+
+$mailResponse->IsSMTP();
+$mailResponse->Host = "host.caracashosting55.com";
+$mailResponse->SMTPAuth = true;
+$mailResponse->Username = 'contacto@qvarvenezuela.com';
+$mailResponse->Password = 'abc123-*/';
+
 $mailQvar->CharSet = 'UTF-8';
 $mailResponse->CharSet = 'UTF-8';
 
