@@ -83,7 +83,7 @@ include 'include/header.php';
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 text-center">
 				<div class="service-box">
-					<a href=""><i class="fa fa-sign-in fa-3x"></i></a>
+					<a data-toggle="modal" data-target="#modal-inicio-sesion"><i class="fa fa-sign-in fa-3x"></i></a>
 					<h3>Usuarios Registrados</h3>
 					<p class="">Disfrute de los privilegios de ser un usuario QVAR, descargue hojas de seguridad y especificaciones tecnicas en PDF.</p>
 				</div>

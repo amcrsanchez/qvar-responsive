@@ -1,5 +1,6 @@
 <div class="container">
-  <div class="jumbotron">
+  <div class="jumbotron background-logo">
+    <img class="img img-responsive center-block" src="images/logo.png" alt="logo-qvar">
     <center><h1 class="font-OSCB color-red">Nuestros <span class="font-OSCI  color-black">Productos</span></h1>
     <p class="text-muted font-OSCI">
       Productos refrigerantes de motor, limpiaparabrisas, productos químicos para tratamientos de calderas y sistemas de enfriamiento.

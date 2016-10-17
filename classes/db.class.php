@@ -36,6 +36,7 @@ class LinkMysql extends mysqli
   }
 
   public function returnQuery($sql){
+  
   if($res = $this->link->query($sql)){
     return $res;
   }else{

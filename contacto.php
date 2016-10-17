@@ -3,6 +3,7 @@
 ?>
 <div class="container">
   <div class="jumbotron">
+   <img class="img img-responsive center-block" src="images/logo.png" alt="logo-qvar">
     <center><h1 class="font-OSCB color-red">Comunícate<span class="font-OSCI  color-black"> con Nosotros</span></h1>
     <p class="text-muted font-OSCI">
       A traves de nuestro formulario de contacto, numeros telefonicos o correos de atención; si prefieres un contacto mas personalizado

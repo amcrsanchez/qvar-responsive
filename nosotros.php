@@ -5,14 +5,17 @@
 
 
 
-  <div class="jumbotron no-padding no-margin">
+  <div class="jumbotron">
+   <img class="img img-responsive center-block" src="images/logo.png" alt="logo-qvar">
+    <center>
     <h1 class="font-OSCB color-red no-padding">Q-VAR <span class="font-OSCI  color-black"> C.A.</span></h1>
-    <p class="text-muted font-OSCI">
-    QUIMICOS VENTAS ASESORAMIENTOS REPRESENTACIONES C.A.
-    </p>
-    <p class="text-muted font-OSCI">
-      RIF: J-07540822-5
-    </p>
+        <p class="text-muted font-OSCI">
+        QUIMICOS VENTAS ASESORAMIENTOS REPRESENTACIONES C.A.
+        </p>
+        <p class="text-muted font-OSCI">
+          RIF: J-07540822-5
+        </p>
+    </center>
 
   </div>
 
@@ -77,12 +80,15 @@
         </p>
     </div>
     <br>
-   <div class="col-lg-12">
+
+   <div class="col-sm-1 col-lg-1"></div>
+   <div class="col-sm-10 col-lg-10">
     <hr class="featurette-divider">
     <h1 class="font-OSCB color-red no-padding">NUESTRA<span class="font-OSCI  color-black">PLANTA</span></h1>
       <img data-toggle="modal" data-target="#our-plant-pic" class="img-responsive" src="images/planta_qvar.jpg" alt="Qvar - Planta" />
       <hr class="featurette-divider">
     </div>
+    <div class="col-sm-1 col-lg-1"></div>
 
     <div class="col-lg-4">
       <div class="text-center  service-box">

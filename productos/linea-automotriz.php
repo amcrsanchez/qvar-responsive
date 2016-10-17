@@ -6,6 +6,7 @@ $producto->autoClasses();
 ?>
 <div class="container h-100">
   <div class="jumbotron">
+   <img class="img img-responsive center-block" src="images/logo.png" alt="logo-qvar">
     <center><h1 class="font-OSCB color-red">Linea<span class="font-OSCI  color-black"> Automotríz</span></h1>
     <p class="text-muted font-OSCI">
       Shampoo para carros, desengrasantes, limpiaparabrisas, refrigerantes para motor (anticorrosivos y elevadores del punto de ebullicion),
@@ -53,7 +54,9 @@ $producto->autoClasses();
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h3 class="modal-title font-OSCB  color-black" id="modal-codigo">Modal title</h3>
+         <div class="col-lg-3"><img class="img img-responsive modal-header-logo" src="images/logo.png" alt="logo-qvar"></div>
+          <div class="col-lg-6 text-center"><br><h3 class="modal-title font-OSCB  color-black left" id="modal-codigo">Modal title</h3></div>
+          <div class="col-lg-3"></div>
       </div>
       <h4 class="text-center font-OSCI  color-red">Descripción</h4>
       <div class="modal-body text-justify" id="modal-body">

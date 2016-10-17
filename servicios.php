@@ -3,6 +3,7 @@
 ?>
 <div class="container h-100">
   <div class="jumbotron">
+    <img class="img img-responsive center-block" src="images/logo.png" alt="logo-qvar">
     <center><h1 class="font-OSCB color-red">Nuestros<span class="font-OSCI  color-black"> Servicios</span></h1>
     <p class="text-muted font-OSCI">
       La compañía QVAR, c.a. desde sus inicios y por su propia filosofía,
