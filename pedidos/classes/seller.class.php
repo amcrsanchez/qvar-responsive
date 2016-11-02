@@ -6,6 +6,7 @@ class Seller extends LinkMysql
 	
 
 	public $sellerList;
+	public $id;
 	public $name;
 	public $phone;
 	public $email;
@@ -35,6 +36,7 @@ class Seller extends LinkMysql
 		$sql = "SELECT * FROM vendedores WHERE nombre = '$sellerName'";
 		$res = parent::returnQuery($sql);
 		$row = $res->fetch_assoc();
+		self::set('id',$row['id_vendedor']);
 		self::set('name',$sellerName);
 		self::set('phone',$row['telefono']);
 		self::set('email',$row['email']);

@@ -20,6 +20,7 @@
 		include "include/progress.php";
 		include "routing/".$_GET['tab'].".php";
 	}else{
+		$error = "La pagina no Existe";
 		include "routing/error.php";
 	}
 

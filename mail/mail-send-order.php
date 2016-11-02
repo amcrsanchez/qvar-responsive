@@ -69,7 +69,7 @@ $html = "
           $mainInfoArray = array('rif_user' => $rif,'fecha_hora' => 'NOW()' ,'realizado_por' => 'Usuario','subtotal' => 'NULL' , 'iva' => 'NULL' ,'total' => 'NULL' ,'act' => 1);
           $order = new Order;
           $order->insert($mainInfoArray, $jsonData);
-          echo 1;
+          
         }else{
           //echo 1;
           echo "Ha ocurrido un error, intente de nuevo mas tarde.";

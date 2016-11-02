@@ -50,6 +50,13 @@ html, body{
 	margin-top:-260px;
 }
 
+.border-radius-5{
+	border-radius: 5px;
+}
+
+.pointer{
+	cursor:pointer;
+}
 
 body{
 
@@ -66,7 +73,7 @@ body{
 
 img.logo{
 	
-
+	width:100px;
 }
 
 .form-container{
@@ -101,3 +108,21 @@ table.tbl-progress td{
 	text-shadow:2px 2px 5px rgba(255, 255, 255, 0.2);
 }
 /*PROGRESS BAR STYLES*/
+
+.order-table-container{
+	border-radius: 5px;
+	padding: 5px;
+}
+
+#order-table{
+	font-size: 0.8em;
+}
+
+
+input, select{
+	font-size: 0.8em!important;
+}
+
+.order-table-container{
+	font-size: 0.8em;
+}

@@ -59,7 +59,7 @@
 			</div>
 			 <br>
 			<button class="btn btn-block" disabled="disabled" id="cliente-continuar">Continuar</button>	
-			
+			<br>
 		</div>
 	</div>
 </div>
