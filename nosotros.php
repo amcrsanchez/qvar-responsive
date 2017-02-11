@@ -53,30 +53,26 @@
     <div class="col-lg-4 text-justify">
       <div class="text-center  service-box">
 
-        <i class="fa fa-check fa-3x"></i>
-        <h3>Misión</h3>
+        <i class="fa fa-eye fa-3x"></i>
+        <h3>Visión</h3>
       </div>
       <br>
       <p>
-        “Ser cada día mejores en calidad, productividad, innovación y desarrollo profesional,
-        cumpliendo con los requisitos de normas internacionales en la fabricación de nuestros productos,
-        para satisfacer las expectativas de nuestros clientes, accionistas y de la comunidad.”
+        “Seremos  la empresa líder a nivel nacional e internacional en la fabricación y
+        comercialización de productos químicos en contribución al desarrollo económico, 
+        tecnológico y humano de manera sustentable y sostenible de la Sociedad Global”
       </p>
     </div>
     <div class="col-lg-8 text-justify">
 
       <div class="text-center service-box">
 
-        <i class="fa fa-briefcase fa-3x"></i>
-        <h3>Politica de Calidad</h3>
+        <i class="fa fa-crosshairs fa-3x"></i>
+        <h3>Misión</h3>
       </div>
       <br>
         <p>
-          "Trabajar con nuestros recursos humanos y proveedores buscando satisfacer las expectativas y
-          necesidades de nuestros clientes y de la comunidad, manteniendo vivo el espíritu de innovación y
-          la mejora continua de nuestros servicios y productos refrigerantes de motor, limpiaparabrisas,
-          productos químicos para tratamientos de calderas y sistemas de enfriamiento;
-          a través de nuestro Sistema de Gestión de Calidad para permanecer vigentes en el mercado"
+          "Somos una empresa de diseño, fabricación y comercialización de productos químicos para el cuidado del hogar, mantenimiento automotriz e industrial para el mercado latinoamericano apoyados en un Talento Humano comprometido en el uso eficaz de las tecnologías de vanguardia mediante una gestión signada por la competitividad, calidad y productividad en el alcance de beneficios para nuestros clientes, aliados estratégicos, comunidad, trabajadores y accionistas."
         </p>
     </div>
     <br>
@@ -88,8 +84,45 @@
       <img data-toggle="modal" data-target="#our-plant-pic" class="img-responsive" src="images/planta_qvar.jpg" alt="Qvar - Planta" />
       <hr class="featurette-divider">
     </div>
-    <div class="col-sm-1 col-lg-1"></div>
+    <div class="col-sm-1 col-lg-1"></div> 
+    <div class="col-lg-5">
+      <div class="text-center service-box">
 
+        <i class="fa fa-flag fa-3x"></i>
+        <h3>Principios</h3>
+      </div>
+      <br>
+      <p class="text-justify">
+       <ul>
+         <li>Respeto en nuestras relaciones humanas.</li>
+         <li>Constancia, perseverancia y disciplina en el alcance de nuestras aspiraciones.</li>
+         <li>Honestidad y lealtad hacia nuestros clientes, familia corporativa  y aliados estratégicos.</li>
+         <li>Solidaridad en la interacción como base para alcanzar nuestras aspiraciones.</li>
+         <li>Equidad en nuestra relaciones humanas.</li>
+         <li>Compromiso ante las aspiraciones organizacionales.</li>
+        </ul>
+      </p>
+    </div>
+    <div class="col-lg-7">
+      <div class="text-center service-box">
+
+        <i class="fa fa-heartbeat fa-3x"></i>
+        <h3>Valores</h3>
+      </div>
+      <br>
+      <p class="text-justify">
+       <ul>
+        <li>Orientación a la calidad en cada uno de nuestros procesos organizacionales.</li>
+        <li>Vocación de servicio en la superación incesante de los requerimientos de nuestros clientes.</li>
+        <li>Búsqueda incesante de la innovación en la búsqueda soluciones hacia nuestros clientes y sociedad.</li>
+        <li>Actitud y aptitud orientada a la competitividad para garantizar la prosperidad de la empresa.</li>
+        <li>Comportamiento orientado hacia integridad en el desempeño de sus funciones, responsabilidades y relaciones.</li>
+        <li>Compromiso ante las aspiraciones organizacionales.</li>
+        <li>Proactividad en la búsqueda de la excelencia personal y organizacional. </li>
+
+       </ul>
+      </p>
+    </div>
     <div class="col-lg-4">
       <div class="text-center  service-box">
         <hr class="featurette-divider">

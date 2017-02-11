@@ -49,7 +49,7 @@ $htmlUsuario =  "
                   <br>
                   <p><i>con QVAR, tu pones la confianza, nostros la calidad</i></p>
                   <p>www.qvarvenezuela.com</p>
-                  <img src='http://www.qvarvenezuela.com/imags/logo.png'>
+                  <img src='http://www.qvarvenezuela.com/images/logo.png'>
                 </div>
                 ";
 

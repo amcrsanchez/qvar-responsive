@@ -88,7 +88,7 @@
 	        	$mail->AddAddress($client['email'],"Estimado ".$client['nombre'].", estos son los datos de su pedido.");//send email to client
 	        	$mail->AddAddress("informatica.qvarca@gmail.com","Pedido Online"); //send email to ICTD (information and comunication technologies department)
 	        	$mail->AddAddress("cotizaciones.qvarca@gmail.com","Pedido Online"); //send email to Naivit
-	        
+	        	$mail->AddAddress($seller['Email'],"Pedido Online"); //send email to Seller
 	        	if (sizeof($aditionalInfo['emails']) > 0) {
 		        	for ($i=0; $i < sizeof($aditionalInfo['emails']) ; $i++) { 
 		        		$mail->AddAddress($aditionalInfo['emails'][$i],"Pedido Online"); //send aditional emails

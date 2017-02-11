@@ -5,7 +5,7 @@
       <div class="container">
         <div class="col-xs-12 col-sm-6 datos-footer no-padding">
           <p class="text-muted">Departamento de Sistemas QVAR CA</p>
-          <p class="text-muted">Amílcar Sánchez Soluciones Tecnológicas - informatica.qvarca@gmail.com</p>
+          <p class="text-muted">Amílcar Sánchez Soluciones Tecnológicas - informatica@qvarvenezuela.com</p>
 
         </div>
         <div class="col-xs-12 col-sm-6 no-padding social-networks" >

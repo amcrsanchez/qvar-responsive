@@ -93,10 +93,13 @@
 				
 			}
 		});
+
+			
 	}
 
 
 	function filter(){
+
 		var val = RegExp($(this).val(),'i');
 		var html = "<option value=''>Seleccione</option><option value='nuevo'>CREAR NUEVO CLIENTE</option>";
 

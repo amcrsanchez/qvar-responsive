@@ -55,7 +55,7 @@ $htmlUser = "
 
 $htmlAdm ="
           <div style='font-family:sans-serif; font-size:.95em'>
-          <img src='http://www.qvarvenezuela.com/imagenes/logo.png' alt='' />
+          <img src='http://www.qvarvenezuela.com/images/logo.png' alt='' />
           <h3>Se ha registrado un nuevo usuario en www.qvarvenezuela.com</h3>
           <p>
             Su usuario para el acceso es: <b>$email</b>, y su contraseña: <b>$pass</b>

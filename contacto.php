@@ -41,11 +41,11 @@
 
 
                     <ul class="tel-correo">
-                      <li><span class="font-OSCB">ventas.qvarca@gmail.com</span></li>
-                      <li><span class="font-OSCB">cotizaciones.qvarca@gmail.com</span></li>
-                      <li><span class="font-OSCB">admitradores.qvarca@gmail.com</span></li>
-                      <li><span class="font-OSCB">informatica.qvarca@gmail.com</span></li>
-                      <li><span class="font-OSCB">rrhh.qvarca@gmail.com</span></li>
+                      <li><span class="font-OSCB">mercadeo@qvarvenezuela.com</span></li>
+                      <li><span class="font-OSCB">facturacion@qvarvenezuela.com</span></li>
+                      <li><span class="font-OSCB">administracion@qvarvenezuela.com</span></li>
+                      <li><span class="font-OSCB">informatica@qvarvenezuela.com</span></li>
+                      <li><span class="font-OSCB">talentohumano@qvarvenezuela.com</span></li>
                     </ul>
                   </div>
 
